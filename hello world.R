@@ -1,1 +1,1 @@
-print("greetings")
+cat("greetings")
